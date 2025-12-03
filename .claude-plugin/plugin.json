@@ -1,5 +1,5 @@
 {
-  "name": "sample-plugin",
+  "name": "hackathon-sample-plugin",
   "version": "1.0.0",
   "description": "A sample Claude plugin demonstrating best practices and folder structure",
   "keywords": ["sample", "boilerplate", "template", "claude-code"],
