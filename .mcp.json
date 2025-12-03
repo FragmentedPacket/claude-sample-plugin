@@ -1,0 +1,17 @@
+{
+  "servers": {
+    "example-server": {
+      "description": "Example MCP server configuration",
+      "command": "node",
+      "args": ["./mcp-server/index.js"],
+      "env": {
+        "NODE_ENV": "production"
+      },
+      "enabled": false
+    }
+  },
+  "settings": {
+    "timeout": 30000,
+    "retries": 3
+  }
+}
