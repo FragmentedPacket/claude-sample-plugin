@@ -2,5 +2,9 @@
   "name": "hackathon-sample-plugin",
   "version": "1.0.0",
   "description": "A sample Claude plugin demonstrating best practices and folder structure",
+  "author": {
+    "name": "Mikhail",
+    "email": "mikhail@gmail.com"
+  },
   "keywords": ["sample", "boilerplate", "template", "claude-code"]
 }
